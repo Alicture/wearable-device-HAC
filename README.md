@@ -12,6 +12,6 @@
 
 - [x] KNN算法
 - [ ] byes算法
-- [ ] KNN算法调优
+- [x] KNN算法调优
 - [ ] byes算法调优
 - [ ] ROC Area
